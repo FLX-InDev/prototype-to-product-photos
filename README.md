@@ -62,10 +62,8 @@ If a user specifies a brand during a conversation, the skill uses exactly one ma
 Install from GitHub with Codex's skill installer:
 
 ```powershell
-python <path-to-codex-home>/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo <your-github-user>/prototype-to-product-photos --path .
+python <path-to-codex-home>/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo FLX-InDev/prototype-to-product-photos --path .
 ```
-
-Replace `<your-github-user>` with the GitHub account or organization that hosts the repository.
 
 ## Example Request
 
