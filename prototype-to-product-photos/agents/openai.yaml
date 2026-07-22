@@ -1,4 +1,0 @@
-interface:
-  display_name: "Prototype To Product Photos"
-  short_description: "Turn prototype images into fidelity-locked product photos"
-  default_prompt: "Use $prototype-to-product-photos with my original prototype images, factual product description, and optional brand layer from references/brand-layers.md to create QA-passed e-commerce lifestyle photos."
